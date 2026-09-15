@@ -1,5 +1,5 @@
-PyYAML==5.3
-Twisted==20.3.0
+PyYAML==6.0.3
+Twisted==26.4.0rc2
 graypy==2.1.0
 concurrent-log-handler==0.9.20
 #gaia2
